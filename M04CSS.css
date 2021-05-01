@@ -17,9 +17,6 @@ body {
 	float: left;
 	margin: 1%;
 }
-.column3 {
-	margin-right: 0%;
-}
 li {
 	display: inline;
 	padding: 0.5em;
@@ -28,13 +25,40 @@ li {
 #nav, #footer {
 	background-color: #9932CC;
 	padding: 0.5em 0;
-	color: white !important;
+	color: white;
 }
 #feature, .article {
 	height: 10em;
 	margin-bottom: 1em;
 	background-color: #efefef;
 }
+.column3 {
+	margin-right: 0%;
+	background-color: #cd5c5c;
+}
+.column2 {
+	background-color: maroon;
+}
+.column1 {
+	background-color: pink;
+}
 a {
 	color: white;
+}
+#feature {
+	background-color: #ADFF2F;
+	background-image: url("feature-flowers.png");
+	background-size: contain;
+	background-position: right;
+	background-repeat: no-repeat;
+}
+#header h1{
+	font-family: 'DancingScriptRegular';
+}
+body {
+	background-image: url("bg.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+p {
 }
