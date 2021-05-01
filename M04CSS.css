@@ -29,6 +29,7 @@ li {
 #nav, #footer {
 	background-color: #9932CC;
 	padding: 0.5em 0;
+	color: white;
 }
 #feature, .article {
 	height: 10em;
