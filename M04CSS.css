@@ -24,7 +24,7 @@ body {
 li {
 	display: inline;
 	padding: 0.5em;
-	color: white;
+	color: #FFFFFF;
 }
 #nav, #footer {
 	background-color: #9932CC;
