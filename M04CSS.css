@@ -25,7 +25,7 @@ li {
 	padding: 0.5em;
 	color: white;
 }
-#nav li, #footer {
+#nav, #footer {
 	background-color: #9932CC;
 	padding: 0.5em 0;
 	color: white;
