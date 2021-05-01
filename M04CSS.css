@@ -56,7 +56,10 @@ a {
 	font-family: 'DancingScriptRegular';
 }
 body {
-	background-image: url("bg.jpg");
-	background-size: 100%;
+	background-image: url("summer.jpg");
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
+}
+html {
+	height: 100%;
 }
